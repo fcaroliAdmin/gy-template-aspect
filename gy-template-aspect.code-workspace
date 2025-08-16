@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/aspect-nextjs-shadcnblocks/aspect-nextjs-template-1.0.0/public"
+		},
+		{
+			"path": "../../Downloads/aspect-nextjs-shadcnblocks/aspect-nextjs-template-1.0.0/src"
+		}
+	],
+	"settings": {}
+}
